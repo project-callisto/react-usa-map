@@ -49,8 +49,8 @@
         "react-test-renderer": "16"
     },
     "peerDependencies": {
-        "react": "^16.13.1",
-        "react-dom": "^16.13.1"
+        "react": ">=16.13.1",
+        "react-dom": ">=16.13.1"
     },
     "dependencies": {
         "babel-runtime": "^6.26.0"
