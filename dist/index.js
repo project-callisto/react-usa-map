@@ -148,8 +148,8 @@
 
   USAMap.propTypes = {
     onClick: _propTypes2.default.func.isRequired,
-    width: _propTypes2.default.number,
-    height: _propTypes2.default.number,
+    width: _propTypes2.default.oneOfType([_propTypes2.default.string, _propTypes2.default.number]),
+    height: _propTypes2.default.oneOfType([_propTypes2.default.string, _propTypes2.default.number]),
     title: _propTypes2.default.string,
     defaultFill: _propTypes2.default.string,
     customize: _propTypes2.default.object
