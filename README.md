@@ -1,3 +1,10 @@
+# THIS REPOSITORY IS DIRECTLY REFERENCED IN Callisto Vault's package.json AS A DEPENDENCY.
+
+Below is the original README from the repository from which this was forked. It was not being maintained and we needed
+minor changes to be able to update versions of React.
+
+---
+
 # react-usa-map | A simple SVG USA map rendering on React
 
 [![Build Status](https://travis-ci.org/gabidavila/react-usa-map.svg?branch=master)](https://travis-ci.org/gabidavila/react-usa-map) [![codebeat badge](https://codebeat.co/badges/edd62a75-c313-47c7-b239-d1d1848d3621)](https://codebeat.co/projects/github-com-gabidavila-react-usa-map-master)
