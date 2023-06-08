@@ -1,7 +1,4 @@
-# THIS REPOSITORY IS DIRECTLY REFERENCED IN Callisto Vault's package.json AS A DEPENDENCY.
-
-Below is the original README from the repository from which this was forked. It was not being maintained and we needed
-minor changes to be able to update versions of React.
+Below is the original README from the repository from which this was forked. It was not being maintained.
 
 ---
 
