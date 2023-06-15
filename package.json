@@ -12,6 +12,9 @@
         "url": "https://github.com/gabidavila/react-usa-map/issues"
     },
     "homepage": "https://github.com/gabidavila/react-usa-map#readme",
+    "publishConfig": {
+        "@project-callisto:registry": "https://npm.pkg.github.com"
+    },
     "keywords": [
         "react-component",
         "react",
@@ -23,7 +26,7 @@
         "prepublish": "babel --plugins transform-es2015-modules-umd src --ignore __tests__ --out-dir ./dist",
         "lint": "eslint ./src",
         "lintfix": "eslint ./src --fix",
-        "pretest": "yarn run lint",
+        "pretest": "npm run lint",
         "test": "jest --coverage"
     },
     "devDependencies": {
